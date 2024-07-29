@@ -15,3 +15,6 @@ To install and run this project locally, follow these steps:
    ```sh
    git clone https://github.com/Normantshuma1/DjangoPersonalWebsite.git
    cd DjangoPersonalWebsite
+
+## Credits
+This project was created by [Norman Junior Tshuma](https://github.com/Normantshuma1).
