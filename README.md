@@ -6,7 +6,6 @@ The **Django Personal App** is a web application developed using Django. This pr
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Credits](#credits)
 - [Repository URL](#repository-url)
 
