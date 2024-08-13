@@ -3,13 +3,6 @@
  Description
 The **Django Personal App** is a web application developed using Django. This project serves as a personal portfolio website, showcasing your skills and achievements. It includes a home page, an 'About Me' section, and additional dynamic pages. This project is important as it demonstrates your ability to build and manage a web application using Django, providing a platform to highlight your personal and professional experiences.
 
- Table of Contents
-- [Installation](installation)
-- [Usage](usage)
-- [Screenshots](screenshots)
-- [Credits](credits)
-- [Repository URL](repository-url)
-
  Installation
 To set up and run this project locally, follow these steps:
 
